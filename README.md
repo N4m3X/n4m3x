@@ -9,8 +9,8 @@ My online name is NameX. I am a coffee lover. I make random stuff that people so
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6S17XRWS)
 
-![](https://komarev.com/ghpvc/?username=N4m3X&color=ffccff)
+![](https://komarev.com/ghpvc/?username=namex69&color=ffccff)
 <br><br>
-![N4m3X GitHub stats](https://github-readme-stats.vercel.app/api?username=N4m3X&count_private=true&theme=github_dark&show_icons=true&border_color=4C8EDA&include_all_commits=true&border_radius=12)
+![NameX GitHub stats](https://github-readme-stats.vercel.app/api?username=namex69&count_private=true&theme=github_dark&show_icons=true&border_color=4C8EDA&include_all_commits=true&border_radius=12)
 <br><br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=N4m3X&theme=github_dark&layout=compact&border_color=4C8EDA&card_width=445&border_radius=12)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=namex69&theme=github_dark&layout=compact&border_color=4C8EDA&card_width=445&border_radius=12)

@@ -5,7 +5,9 @@ You can do the same for your github profile by creating a repository with the na
 
 ### Hi there 👋 
 ## Who am I?
-My online name is NameX. I am a coffee lover. I make random stuff that people sometimes find useful.
+My online name is NameX. I'm developer, designer, moderator and contributor. I make random stuff that people sometimes find useful in my free time. I am a coffee lover.
+
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,figma,js,go,ts,nodejs,php,mysql,mongodb,html,css&theme=light)](https://skillicons.dev)
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6S17XRWS)
 

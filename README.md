@@ -1,15 +1,20 @@
 <!--
-Ah hello and welcome to my profile :)
+Hello and welcome to my profile :)
 You can do the same for your github profile by creating a repository with the name of your account. Thanks for stopping by :)
 -->
 
-# Hi there 👋 
+<h1 align="center">Hi there 👋</h1>
 
-My online name is **NameX**. I'm developer, designer, moderator and contributor. I make random stuff that people sometimes find useful in my free time. I am a coffee lover.
-
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,figma,js,go,ts,nodejs,php,mysql,mongodb,html,css&theme=light)](https://skillicons.dev)
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6S17XRWS)
+<h3 align="center">My online name is NameX. I'm developer, designer, moderator and contributor.<br/>I make random stuff that people sometimes find useful in my free time.</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,kotlin,figma,js,ts,go,nodejs,php,mysql,mongodb,html,css&theme=light" />
+  </a>
+  <br/><br/>
+  <a href="https://ko-fi.com/S6S17XRWS">
+    <img src="https://ko-fi.com/img/githubbutton_sm.svg" />
+  </a>
+</p>
 
 <details>
   <summary>Github Stats ⚡</summary>
